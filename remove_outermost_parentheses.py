@@ -30,7 +30,7 @@ class Solution:
         return out
         
 # ========================================================================        
-# There's another solution from a leetcode user which I found interesting:
+# There's another solution from a leetcode user @jkbielan which I found also interesting:
 class Solution:
 	def removeOuterParentheses(self, S: str) -> str:
 		parts = []
