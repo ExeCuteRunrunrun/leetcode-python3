@@ -1,5 +1,8 @@
+# partition means "dividing something into parts"
+
 class Solution:
     def arrayPairSum(self, nums: List[int]) -> int:
+        
         nums = sorted(nums)
         summ = 0
         i = 0
